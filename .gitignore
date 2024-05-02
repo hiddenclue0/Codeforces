@@ -1,6 +1,4 @@
-
-# Ignore .bin files
-*.bin
-# Ignore a and b folders in codeforces directory and its subdirectories
-/codeforces/*/.vscode/
-/codeforces/*/.cph/
+/codeforces/**/*../
+/codeforces/**/*.cph/
+/codeforces/**/*.vscode/
+/codeforces/**/*.bin
