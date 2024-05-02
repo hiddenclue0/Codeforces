@@ -1,5 +1,5 @@
-
-/codeforces/**/*../
-/codeforces/**/*.cph/
-/codeforces/**/*.vscode/
+# Ignore specific folders and files in the codeforces directory
+/codeforces/../
+/codeforces/.cph/
+/codeforces/.vscode/
 /codeforces/**/*.bin
