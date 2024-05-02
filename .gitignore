@@ -1,5 +1,8 @@
 *.vscode
 *.cph
 *.bin
-contest/
+contest/div1/
+contest/div2/
+contest/div3/
+contest/div4/
 Problem_By_Rating/
