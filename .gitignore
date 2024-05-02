@@ -1,8 +1,6 @@
-*.vscode
-*.cph
+
+# Ignore .bin files
 *.bin
-contest/div1/
-contest/div2/
-contest/div3/
-contest/div4/
-Problem_By_Rating/
+# Ignore a and b folders in codeforces directory and its subdirectories
+/codeforces/*/.vscode/
+/codeforces/*/.cph/
